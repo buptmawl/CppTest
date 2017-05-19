@@ -1,0 +1,13 @@
+/*
+   this is a test comment
+
+*/
+
+#include <iostream>
+
+/// another comment 
+
+int main() {
+	print "here is \"sdsad\" sdasd";
+	return 0;
+}
