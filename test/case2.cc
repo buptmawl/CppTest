@@ -47,10 +47,9 @@ TreeNode* convert(TreeNode* node)
 
     if(NULL == node)
         return NULL;
-    TreeNode* presult = new TreeNode(-1);
-    TreeNode* presult = presult;
-    myconvert(node, presult);
-    return *presult;
+    TreeNode* presult = NULL;
+    myconvert(node, &presult);
+    return presult;
    
 }
 
