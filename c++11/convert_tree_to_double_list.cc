@@ -13,7 +13,7 @@ using namespace std;
 
 // on mac: clang++ -std=c++11 -stdlib=libc++ xxx.cc && ./a.out
 
-struct TreeNode {
+struct TreeNode{
     public:
         TreeNode* left;
         TreeNode* right;
