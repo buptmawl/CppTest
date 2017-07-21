@@ -33,3 +33,5 @@
 
 # by vim
 *.swp
+
+test.cc
