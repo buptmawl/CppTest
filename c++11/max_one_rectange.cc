@@ -13,6 +13,7 @@ using namespace std;
 
 // on mac: clang++ -std=c++11 -stdlib=libc++ xxx.cc && ./a.out
 //  http://blog.csdn.net/jiyanfeng1/article/details/8068676
+// https://www.tianmaying.com/tutorial/LC85
 
   
 int maxRectInHistogram(int hist[], int n)    

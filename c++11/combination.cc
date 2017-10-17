@@ -59,6 +59,7 @@ int main() {
     cin >> mstr;
 
     cout << (std::upper_bound(result_vec.begin(), result_vec.end(), stoi(mstr))-result_vec.begin())  << endl;
+    cout << (std::lower_bound(result_vec.begin(), result_vec.end(), stoi(mstr))-result_vec.begin())  << endl;
 
     return 0;
 }
