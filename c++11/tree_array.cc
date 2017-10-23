@@ -14,6 +14,8 @@ using namespace std;
 // on mac: clang++ -std=c++11 -stdlib=libc++ xxx.cc && ./a.out
 
 
+// http://dongxicheng.org/structure/binary_indexed_tree/
+
 #include <iostream>
 #include <stdio.h>
 #include <string.h>
