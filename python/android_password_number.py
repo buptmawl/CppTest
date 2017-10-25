@@ -1,9 +1,6 @@
-#作者：知乎用户
-#链接：https://www.zhihu.com/question/24905007/answer/29414497
-#来源：知乎
-#著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
-
 from itertools import chain, permutations
+
+#https://www.zhihu.com/question/24905007/answer/29414497
 
 impossible = {'13': '2', 
               '46': '5', 
