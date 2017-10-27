@@ -47,7 +47,6 @@ int main() {
         result_vec.push_back(kk);
     }
 
-    sort(result_vec.begin(), result_vec.end());
     for (auto &m : result_vec) {
         cout << " " << m ; 
     }
